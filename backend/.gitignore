@@ -6,11 +6,15 @@ node_modules
 /.pnp
 .pnp.js
 
+
 # testing
 /coverage
 
 # production
 /build
+
+/src/database/db.sqlite
+src/database/db.sqlite
 
 # misc
 .DS_Store
